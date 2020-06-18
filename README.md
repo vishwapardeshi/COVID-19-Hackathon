@@ -1,5 +1,5 @@
 # COVID-19-Hackathon
-The repository contains the Winning Submission for the online [Hackathon at University of Washington, Seattle](https://data-science-hackathon.github.io/COVID-19-Hackathon/).
+The repository contains the Winning Submission for the [COVID-19 Hackathon at University of Washington, Seattle](https://data-science-hackathon.github.io/COVID-19-Hackathon/).
 
 Our **Team CuriousDuo were the winners under the category : Storytelling / Data Science**
 
